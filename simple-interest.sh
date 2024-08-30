@@ -14,7 +14,7 @@ calculate_simple_interest() {
 ## Check if the user has provided all three arguments....
 if [ $# -ne 3 ]; then
     echo "Usage: $0 principal rate time"
-    echo "Example: $0 1000 5 3"
+    echo "Example: $0 10000 5 3"
     exit 1
 fi
 
