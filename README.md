@@ -1,5 +1,5 @@
 # github-coursera-demo
-A coursera course project
+A coursera course project...
 
 --Files
 
